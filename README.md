@@ -1,5 +1,5 @@
 # Sakshi's_Virtual_Personal_Assistant
-It is an virtual personal assistant which converts voice into text(speech recognition), gives information in short instead of lengthy pdfs, tells about current time, tells jokes, plays any video on you-Tube according to command.
+It is an virtual personal assistant is an Machine Learning project which converts voice into text(speech recognition), gives information in short instead of lengthy pdfs, tells about current time, tells jokes, plays any video on you-Tube according to command.
 # Requirements
 PyCharm ide
 # Demo Video of the project
